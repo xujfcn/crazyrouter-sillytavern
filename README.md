@@ -2,7 +2,7 @@
 
 > Use Claude, GPT, Gemini and 300+ models in SillyTavern — Save 45% on API costs.
 
-[Crazyrouter](https://crazyrouter.com?ref=github) — One API key for all AI models.
+[Crazyrouter](https://crazyrouter.com?utm_source=github&utm_medium=github&utm_campaign=dev_community?ref=github) — One API key for all AI models.
 
 ## 💰 Price Comparison
 
@@ -15,20 +15,20 @@
 ## ⚡ Setup Steps
 
 ### 1. Get Crazyrouter API Key
-Sign up at [crazyrouter.com](https://crazyrouter.com?ref=github)
+Sign up at [crazyrouter.com](https://crazyrouter.com?utm_source=github&utm_medium=github&utm_campaign=dev_community?ref=github)
 
 ### 2. Configure in SillyTavern
 
 #### Option A: OpenAI-Compatible Mode
 1. Click the **API Connection** icon (plug icon)
 2. Select **Chat Completion (OpenAI)**
-3. Set **Custom Endpoint**: `https://crazyrouter.com/v1`
+3. Set **Custom Endpoint**: `https://crazyrouter.com?utm_source=github&utm_medium=github&utm_campaign=dev_community/v1`
 4. Set **API Key**: `sk-your-crazyrouter-key`
 5. Click **Connect**
 
 #### Option B: Claude Native Mode
 1. Select **Claude** as API type
-2. Set **Custom Endpoint**: `https://crazyrouter.com`
+2. Set **Custom Endpoint**: `https://crazyrouter.com?utm_source=github&utm_medium=github&utm_campaign=dev_community`
 3. Set **API Key**: `sk-your-crazyrouter-key`
 4. Select Claude model
 
@@ -65,7 +65,7 @@ A: Type model name manually, e.g. `claude-sonnet-4-20250514`.
 A: Increase Max Tokens to 2000-4000.
 
 ## 🔗 Links
-- 🌐 [Crazyrouter](https://crazyrouter.com?ref=github) | 🎭 [SillyTavern](https://github.com/SillyTavern/SillyTavern) | 💬 [Telegram](https://t.me/crzrouter)
+- 🌐 [Crazyrouter](https://crazyrouter.com?utm_source=github&utm_medium=github&utm_campaign=dev_community?ref=github) | 🎭 [SillyTavern](https://github.com/SillyTavern/SillyTavern) | 💬 [Telegram](https://t.me/crzrouter)
 
 ## 📄 License
 MIT
